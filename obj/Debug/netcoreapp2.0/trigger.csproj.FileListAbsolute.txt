@@ -1,0 +1,11 @@
+D:\bak\trigger\bin\Debug\netcoreapp2.0\trigger.deps.json
+D:\bak\trigger\bin\Debug\netcoreapp2.0\trigger.runtimeconfig.json
+D:\bak\trigger\bin\Debug\netcoreapp2.0\trigger.runtimeconfig.dev.json
+D:\bak\trigger\bin\Debug\netcoreapp2.0\trigger.dll
+D:\bak\trigger\bin\Debug\netcoreapp2.0\trigger.pdb
+D:\bak\trigger\obj\Debug\netcoreapp2.0\trigger.csprojAssemblyReference.cache
+D:\bak\trigger\obj\Debug\netcoreapp2.0\trigger.csproj.CoreCompileInputs.cache
+D:\bak\trigger\obj\Debug\netcoreapp2.0\trigger.AssemblyInfoInputs.cache
+D:\bak\trigger\obj\Debug\netcoreapp2.0\trigger.AssemblyInfo.cs
+D:\bak\trigger\obj\Debug\netcoreapp2.0\trigger.dll
+D:\bak\trigger\obj\Debug\netcoreapp2.0\trigger.pdb
